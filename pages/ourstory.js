@@ -51,4 +51,3 @@ const Ourstory = () => {
 }
  
 export default Ourstory;
-                                                

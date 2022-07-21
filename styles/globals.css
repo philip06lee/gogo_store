@@ -65,8 +65,9 @@ width: 100%;
     margin-left: 6px;
 }
 .logo{
-  color: gray;
+  color: black;
   font-size: 18px;
+  font-weight: bold;
 }
 
 
@@ -74,13 +75,13 @@ width: 100%;
 .trigger{
   color: white;
   appearance: none;
-  width: 75px;
+  width: 65px;
   height: 25px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   border-radius: 9999px;
-  background-color: black;
+  background-color: grey;
   color: white;
   cursor: pointer;
 }
@@ -138,8 +139,6 @@ width: 100%;
 .item:focus .end-slot{
   color: white;  
 }
-
-
 
 
 .cart-icon{
@@ -511,7 +510,7 @@ padding: 20px 10px;
 
 .product-detail-image{
   border-radius: 15px;
-   background-color: #ebebeb;
+  background-color: #ebebeb;
 
   width: 400px;
   height: 400px;
@@ -594,7 +593,6 @@ padding: 20px 10px;
 }
 .buttons .buy-now{
   width: 200px;
-
   padding: 10px 20px;
   background-color: #f02d34;
   color: white;
@@ -770,7 +768,7 @@ padding: 20px 10px;
   }
   .cart-container{
     width: 415px;
-  padding: 4px;
+    padding: 4px;
   }
   .cart-heading{
     margin-top: 35px;
@@ -856,3 +854,8 @@ padding: 20px 10px;
 
 }
 
+.logo{
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+}

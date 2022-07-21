@@ -21,6 +21,12 @@ const Navbar = () => {
       </p>
 
 
+      <p className="trigger">
+        <Link href="/">HOME</Link>
+      </p> 
+
+
+
 
       <p className="logo">       
         <DropdownMenu.Root>
